@@ -1,2 +1,0 @@
-# MinecraftSexPlugin
-Spigot Sex Plugin
